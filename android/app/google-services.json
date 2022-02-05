@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "138119354171",
+    "project_id": "writenoteapp",
+    "storage_bucket": "writenoteapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138119354171:android:1da91eeff0e5bca97b491e",
+        "android_client_info": {
+          "package_name": "com.example.note_write_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138119354171-sig62r8kfv4vdtorbaqpb4u4o5h8gbfe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuhKAATrdoY3XsHNloY-xsvhSip8LvqDc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "138119354171-sig62r8kfv4vdtorbaqpb4u4o5h8gbfe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
